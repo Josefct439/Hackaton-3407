@@ -1,0 +1,6 @@
+Discord.py
+Keras == 2.15
+Tensorflow == 2.15
+pillow
+numpy
+pandas
